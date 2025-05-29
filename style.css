@@ -1,0 +1,57 @@
+#profile{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: absolute;
+    top: 30px;
+    left: 500px;
+    margin-bottom: 50px;
+}
+
+#background{
+    background-color:burlywood ;
+}
+
+#name{
+    position: absolute;
+    top: 180px;
+    left: 500px;
+}
+
+#info{
+    position: absolute;
+    top: 225px;
+    left: 435px;
+}
+
+
+#About{
+    position: absolute;
+    top: 300px;
+    left: 500px;
+}
+
+#Biography{
+    position: absolute;
+    top: 350px;
+    left: 500px;
+}
+
+#fahim{
+    position: absolute;
+    top: 375px;
+    left: 450px;
+}
+
+#write{
+    position: absolute;
+    top: 400px;
+    left: 450px;
+    
+}
+
+#c{
+    position: absolute;
+    top: 600px;
+    left: 450px;
+}
